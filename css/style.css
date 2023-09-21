@@ -1,0 +1,116 @@
+
+
+.main {
+    width: 1130px;
+    min-height: 700px;
+    background-color: white;
+    float: left;
+    margin: 30px;
+}
+
+.css {
+    width: 1130px;
+    min-height: 200px;
+    background-color: white;
+    text-align: center;
+    font-size: 120px;
+    padding: 50px 50px;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.nav {
+    width: 985px;
+    min-height: 400px;
+    background-color: hsl(0, 0%, 90%);
+    margin: 0px 70px;
+    float: left;
+    border-radius: 10px;
+
+}
+
+.child1 {
+    width: 263px;
+    min-height: 370px;
+    background-color: white;
+    margin: 20px;
+    float: left;
+    border-radius: 10px;
+    box-sizing: border-box;
+    padding: 10px;
+    box-shadow: 10px 10px 5px  lightgray;
+}
+
+.ch {
+    width: 263px;
+    min-height: 185px;
+    background-image: url(../maxresdefault\ \(1\).jpg);
+    border-radius: 10px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    margin:-10px;
+    
+}
+
+
+.ch1 {
+    background-color: white;
+    
+}
+.child2 {
+    width: 263px;
+    min-height: 370px;
+    background-color: white;
+    margin: 20px;
+    float: left;
+    border-radius: 10px;
+    box-sizing: border-box;
+    box-shadow: 10px 10px 5px  lightgray;
+    padding: 10px;
+}
+
+.a {
+    width: 263px;
+    min-height: 185px;
+    background-image: url(../maxresdefault\ \(1\).jpg);
+    border-radius: 10px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    margin:-10px;
+    
+}
+
+
+.ch2 {
+    background-color: white;
+    
+}
+.child3 {
+    width: 263px;
+    min-height: 370px;
+    background-color: white;
+    margin: 20px;
+    float: left;
+    border-radius: 10px;
+    box-sizing: border-box;
+    box-shadow: 10px 10px 5px  lightgray;
+    padding: 10px;
+}
+
+.b {
+    width: 263px;
+    min-height: 185px;
+    background-image: url(../maxresdefault\ \(1\).jpg);
+    border-radius: 10px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    margin:-10px;
+    
+}
+
+
+.ch3 {
+    background-color: white;
+   
+}
